@@ -8,4 +8,4 @@
 
 ![output.jpg](assets/output2.png)
 
-![output.jpg](assets/output3.png)
+![output.jpg](assets/output3.jpg)
